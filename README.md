@@ -84,7 +84,7 @@ The purpose of 'Recovery' is to capture details of approvals and activities perf
 ### 4.1 Recovery Monitoring
 The purpose of 'Recovery' is to capture details of monitoring performed in order to confirm the effectiveness of recovery activities.
 
-![Recovery Monitoring](https://)
+![Recovery Monitoring](https://1.bp.blogspot.com/-GF3xnXpLw20/W-X0FBvm5SI/AAAAAAAAhto/IAE7a6IAHUQn7BITPGMdVg5YY6XvvY-KgCLcBGAs/s1600/4.1%2BRecovery%2BMonitoring.PNG)
 
 ### 5.0 Lessons Learnt
 The purpose of 'Lessons Learnt' is to capture details of process, procedure and control improvements identified throughout the incident. New controls should also be assigned responsibility to ensure they are implemented.
@@ -96,3 +96,6 @@ The purpose of 'Communications' is to capture details of internal and external c
 
 ![Communications](https://4.bp.blogspot.com/-yEPTZrMhZTM/W-X03_v96aI/AAAAAAAAht4/y7dZWbZK9QwjrchXwl3tqledgt6TjqkaACLcBGAs/s1600/6.0%2BCommunications.PNG)
 
+## Incident Tracker
+In addition to the individual incident spreadsheet, I have also created a separate incident and investigation tracker spreadsheet. This is so that you can document relevant statistics and generate graphs for reporting.
+![tracker](https://1.bp.blogspot.com/-wtWPTrv9wtw/W-sxmyuFwRI/AAAAAAAAhvE/ImFXv4DhGCE1ixjEGI0r7sx726OU9IoZACLcBGAs/s1600/tracker.PNG)
